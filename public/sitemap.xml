@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>http://172.18.77.132/</loc>
+        <lastmod>2020-10-12T03:48:34+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://172.18.77.132/USC2257</loc>
+        <lastmod>2020-10-12T03:48:34+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://172.18.77.132/auth/google</loc>
+        <lastmod>2020-10-12T03:48:34+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://172.18.77.132/contact</loc>
+        <lastmod>2020-10-12T03:48:34+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://172.18.77.132/forgot-password</loc>
+        <lastmod>2020-10-12T03:48:34+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://172.18.77.132/privacy</loc>
+        <lastmod>2020-10-12T03:48:34+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://172.18.77.132/terms</loc>
+        <lastmod>2020-10-12T03:48:34+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+</urlset>
